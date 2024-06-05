@@ -1,4 +1,4 @@
-# Rock, Paper, Scissors Game
+# Rock-Paper-Scissors-Python
 
 This is a simple Rock, Paper, Scissors game implemented in Python. It allows the user to play the classic game against the computer.
 
@@ -106,3 +106,5 @@ If you find any bugs or have suggestions for improvements, please open an issue 
 ## License
 
 This project is licensed under the MIT License.
+
+---
